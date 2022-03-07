@@ -7,3 +7,4 @@ For whom would like to check some actual time information of Splatoon2.
 ## version:1.0.0
 更新：
 1.图形基本界面
+2.拉地图和模式接口
